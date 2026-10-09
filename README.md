@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏦 Banking Dashboard - End-to-End Data Analysis Project
 
 This project focuses on building an interactive **Banking Dashboard** using Power BI. It involves the complete data analysis lifecycle — from data cleaning and transformation to exploratory data analysis (EDA) and visualization.
@@ -111,4 +111,4 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 <img src="powerbi/page4_summary.png" alt="Page 4 - Summary" width="700"/>
 =======
 # Banking-Dashboard
->>>>>>> a2270ab28a081d8d82ce6bf1ccee7dea7817c5e5
+
